@@ -1,4 +1,4 @@
-**Efficient On-Device Flicker Removal in High FPS Videos with Synthetic Data Generation**
+## **Efficient On-Device Flicker Removal in High FPS Videos with Synthetic Data Generation**
 
 An implementation of the *Divide and Deflicker* framework: a data-driven, pleasingly parallel method for removing AC-light flicker from high-FPS (slow-motion) video by treating every pixel as an independent 1D time series.
 
